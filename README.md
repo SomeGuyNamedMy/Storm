@@ -5,16 +5,19 @@ a high contast theme based on the colors within storms.
 # Palettes
 Storm consists of 2 color palettes
 
+<details> <summary>rainstorm</summary>
+ |syntax|Description|
+ |------|-----------|
+ |hello | world     |
+ |      |           |
+</details>
+
 <details> <summary>snowstorm</summary>
-  contents of snowstorm
+  light version of rainstorm
 </details>
 
 <details> <summary>thunderstorm</summary>
-  contents of thunderstorm
-</details>
-
-<details> <summary>rainstorm</summary>
-  contents of rainstorm
+  darker version of rainstorm
 </details>
 
 # Ports
