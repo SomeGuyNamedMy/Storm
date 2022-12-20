@@ -6,7 +6,13 @@ a high contast theme based on the colors within storms.
 Storm consists of 2 color palettes
 
 <details> <summary>rainstorm</summary>
-  |header1
+  <tr>
+    <th></th>
+    <th>Labels</th>
+    <th>Hex</th>
+    <th>RGB</th>
+    <th>HSL</th>
+  </tr>
 </details>
 
 <details> <summary>snowstorm</summary>
